@@ -96,7 +96,7 @@ const TimelineDot = ({
           isActive ? "text-blue-600" : "text-blue-400"
         }`}
       >
-        {year === 2024 ? "Current" : year}
+        {year === 2026 ? "Current" : year === 2025 ? "2024-2025" : year}
       </span>
     </motion.div>
   </motion.div>
@@ -285,20 +285,22 @@ const TeamMemberPopup = ({
 };
 
 export default function Team() {
-  const [selectedYear, setSelectedYear] = useState(2024);
+  const [selectedYear, setSelectedYear] = useState(2026);
   const [teamData, setTeamData] = useState<{
     currentLeads: TeamMember[];
+    "2024-2025Leads": TeamMember[];
     "2023Leads": TeamMember[];
     "2022Leads": TeamMember[];
   }>({
     currentLeads: [],
+    "2024-2025Leads": [],
     "2023Leads": [],
     "2022Leads": [],
   });
   const [loading, setLoading] = useState(true);
   const [selectedMember, setSelectedMember] = useState<TeamMember | null>(null);
 
-  const years = [2024, 2023, 2022];
+  const years = [2026, 2025, 2023, 2022];
 
   useEffect(() => {
     fetch("/data.json")
@@ -314,8 +316,10 @@ export default function Team() {
   }, []);
 
   const displayedTeam =
-    selectedYear === 2024
+    selectedYear === 2026
       ? teamData.currentLeads
+      : selectedYear === 2025
+      ? teamData["2024-2025Leads"]
       : selectedYear === 2023
       ? teamData["2023Leads"]
       : teamData["2022Leads"];

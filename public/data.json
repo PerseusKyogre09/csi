@@ -1,6 +1,127 @@
 {
     "currentLeads": [
         {
+            "id": "2026_1",
+            "title": "Parth Mongia",
+            "subtitle": "President",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768964369/d52d4b3d-b413-498d-b57f-b64fa8287a16_e0mmxv.jpg",
+            "linkedin": "https://www.linkedin.com/in/parth308/"
+        },
+        {
+            "id": "2026_2",
+            "title": "Chhavi Lohani",
+            "subtitle": "Vice President",
+            "imageUrl": "https://res.cloudinary.com/dnb9rl5gy/image/upload/v1757844750/16_fsfkyj.webp",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_3",
+            "title": "Aarush Rastogi",
+            "subtitle": "Executive",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1769054300/cacbaec7-590e-46c3-80e0-059d9a4acfd1_mhvbq4.jpg",
+            "linkedin": "https://www.linkedin.com/in/aarush-rastogi-7566b2287"
+        },
+        {
+            "id": "2026_4",
+            "title": "Somil Sharma",
+            "subtitle": "Co-Executive",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768968057/fd2b61ee-847f-418f-be7d-10fc973f9282_-_Somil_Sharma_upbjxn.jpg",
+            "linkedin": "https://www.linkedin.com/in/somil-sharma-a3a4302a8/"
+        },
+        {
+            "id": "2026_5",
+            "title": "Omair Shahid",
+            "subtitle": "Management Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768966266/IMG-20260115-WA0039_-_omair_shahid_xudsav.jpg",
+            "linkedin": "https://www.linkedin.com/in/omair-shahid-8b6606325"
+        },
+        {
+            "id": "2026_6",
+            "title": "Krrish Khurana",
+            "subtitle": "Management Co-Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768966621/file_00000000e8647230866fb6719a82708b_-_Krrish_Khurana_jyrk81.png",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_7",
+            "title": "Arpit Verma",
+            "subtitle": "Tech Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768982246/cd2b958e-1739-4331-a1a2-5d3f590dc76a_eu5t8m.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_8",
+            "title": "Pradeepto Pal",
+            "subtitle": "Tech Co-Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768967383/IMG-20251216-WA0029_-_Pradeepto_Pal_pt0kbo.jpg",
+            "linkedin": "https://www.linkedin.com/in/pradeeptopal/"
+        },
+        {
+            "id": "2026_9",
+            "title": "Manav Chopra",
+            "subtitle": "Design Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1769054605/blank-profile-picture-973460_1280_njfexu.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_10",
+            "title": "Raina Vashistha",
+            "subtitle": "Design Co-Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1769054605/blank-profile-picture-973460_1280_njfexu.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_11",
+            "title": "Ashvi",
+            "subtitle": "Design Co-Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1769054605/blank-profile-picture-973460_1280_njfexu.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_12",
+            "title": "Himani Malik",
+            "subtitle": "Editorial Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768967485/IMG_20260115_141000_-_HIMANI_MALIK_RA2411026030132_tbnxng.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_13",
+            "title": "Avyukt Kumar",
+            "subtitle": "Editorial Co-Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768967583/IMG_20251224_142756577_2_-_Avyukt_Kumar_kletr1.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_14",
+            "title": "Prisha Rawat",
+            "subtitle": "PR & Marketing Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1769054605/blank-profile-picture-973460_1280_njfexu.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_15",
+            "title": "Acchyut Mishra",
+            "subtitle": "PR & Marketing Co-Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768967680/IMG_2237_-_Acchyut_Mishra_aqiomk.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_16",
+            "title": "Utkarsh Srivastava",
+            "subtitle": "Media Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768967754/Screenshot_20260110_144305_LinkedIn_-_Utkarsh_Srivastava_bunjtm.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        },
+        {
+            "id": "2026_17",
+            "title": "Satyam Nayak",
+            "subtitle": "Media Co-Lead",
+            "imageUrl": "https://res.cloudinary.com/dzturswbu/image/upload/v1768967826/IMG_4466_-_Satyam_Nayak_m9fcxo.jpg",
+            "linkedin": "https://www.linkedin.com/"
+        }
+    ],
+    "2024-2025Leads": [
+        {
             "id": "2024_1",
             "title": "Keshav Bhatia",
             "subtitle": "President",
